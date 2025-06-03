@@ -1,0 +1,37 @@
+# Archivos Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+*.env
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.log
+
+# Datos grandes o sensibles (añádelos a DVC si es necesario)
+data/raw/
+data/tmp/
+
+# Configuración personal
+.vscode/
+.idea/
+
+# Modelos y salidas
+models/
+outputs/
+checkpoints/
+
+# Otros
+*.bak
+*.swp
+*.zip
+*.tar.gz
