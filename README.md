@@ -5,6 +5,7 @@ Este repositorio documenta mi proceso de aprendizaje práctico para convertirme 
 ---
 
 ## 📁 Estructura del repositorio
+````
 ai-engineer-roadmap/
 ├── data/ # Datasets utilizados
 ├── notebooks/ # Notebooks de experimentación
@@ -13,6 +14,7 @@ ai-engineer-roadmap/
 ├── .github/ # Workflows de GitHub Actions
 ├── requirements.txt
 └── README.md
+````
 ## 🚀 Objetivos del proyecto
 
 - Aplicar conceptos avanzados de ML/DL en proyectos prácticos.
